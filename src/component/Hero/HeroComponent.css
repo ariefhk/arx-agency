@@ -33,3 +33,13 @@
   background-color: #0099ff !important;
   color: white !important;
 }
+
+@media (max-width: 575.98px) {
+  .btn-hero-start {
+    font-size: 12px !important;
+  }
+
+  .btn-hero-more {
+    font-size: 12px !important;
+  }
+}
