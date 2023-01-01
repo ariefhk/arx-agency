@@ -1,3 +1,4 @@
 import Brand from "./brand.png";
+import Hero from "./hero.png";
 
-export { Brand };
+export { Brand, Hero };

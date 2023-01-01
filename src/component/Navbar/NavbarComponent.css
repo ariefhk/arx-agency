@@ -21,4 +21,6 @@
 .btn-nav:hover {
   background-color: white !important;
   color: #0099ff !important;
+  border-color: #0099ff !important;
+  border: solid 0.1px !important;
 }
