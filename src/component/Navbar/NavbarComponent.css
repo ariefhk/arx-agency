@@ -1,0 +1,24 @@
+/* .bg-nav {
+  background-color: aquamarine !important;
+} */
+
+.nav-link {
+  color: #494949 !important;
+  padding: 0px 20px !important;
+}
+
+.nav-link:hover {
+  color: #828282 !important;
+}
+
+.btn-nav {
+  background-color: #0099ff !important;
+  border: none !important;
+  border-radius: 4px !important;
+  padding: 10px 24px !important;
+}
+
+.btn-nav:hover {
+  background-color: white !important;
+  color: #0099ff !important;
+}
